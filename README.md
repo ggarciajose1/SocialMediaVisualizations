@@ -6,6 +6,8 @@ This project aims to analyze two separate datasets containing information about 
 ## Questions
 1) What is the distribution of user ratings and reviews for different Android app categories?
   -  This question will help us understand the user sentiment towards different types of apps on both platforms. It will also reveal which categories tend to receive higher ratings andmore reviews, indicating higher user engagement. It is important to understand the distribution of user ratings and reviews across app categories is crucial for developers and marketers. Positive reviews and high ratings significantly impact app visibility and trust among potential users. Research has shown that higher ratings lead to increased downloads and user retention.
-[Source](https://www.alchemer.com/resources/blog/differences-between-ios-and-android-app-ratings-and-reviews/)
+[Reference source](https://www.alchemer.com/resources/blog/differences-between-ios-and-android-app-ratings-and-reviews/)
 2) Is there a correlation between app/category and score rating?
+  - This question will help us determine if higher download counts are associated with better user ratings. It can provide insights into the relationship between app popularity and user satisfaction. Investigating the correlation between downloads and user ratings is essential for developers. It helps them determine if increasing downloads directly translates to higher user satisfaction.
+[Reference Source](https://www.businessofapps.com/insights/ratings-reviews-affect-consumer-decision-download-apps/)
 3) Is there is any correlation between the various ratings and the device being an Android or iOS product
