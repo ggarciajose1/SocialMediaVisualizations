@@ -25,6 +25,16 @@ Kaggle: Top 20 Play Store App Reviews (Daily Update)
   - These are the sources from the Kaggle website that we used for our analysis. To access them, click the link and it will take you to the Kaggle websiite. From there, hit the download button and upload these data sets into Tableau in order to create visualizations from their data.
 
 ## Interpreting Visualizations
+Average Score Bar Chart link to visualization
+This first bar chart shows the average score for each of the twenty apps. We used the app names to color the chart as well, to make it more visually appealing.
+
+Average Score by Category link to visualization
+The second chart shows the average score by app category. We used a tree map so the size of the sections could be a nice indicator for the score that each category received.
+
+Android vs. iOS Ratings link to visualization
+The third chart shows the average CPU, GPU, and total score ratings for different Android and iOS devices. We are able to filter through devices by selecting and deselecting from the provided list. 
+Simply by looking at the total scores for the different devices, one can see that the different iPhone (iOS) devices have a comparably higher score than the android devices. From the List provided, the iPhone 13s are performing at a rather impressive rate compared to the other devices. 
+This chart displays the the correlation between CPU, GPU and total score ratings for different devices. Someone can scroll over the graph to see the average score number as well as select/deselect different devices from the provided list. Overall, this chart showed us that different decives performed better than others especially when looking at the total score for performance. 
 
 ## Discussion & Summary
 [Article Source](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smr.2316)
