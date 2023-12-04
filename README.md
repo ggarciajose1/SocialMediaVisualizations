@@ -15,4 +15,11 @@ This project aims to analyze two separate datasets containing information about 
 [Reference Source](https://www.businessofapps.com/data/most-popular-apps/ )
 
 ## Data Discription & Upload
-these are the sources we used from the Kaggle 
+Kaggle: 🤖Android vs iOS🍎 Device Benchmarks📊 
+  - [Source](https://www.kaggle.com/datasets/alanjo/android-vs-ios-devices-crossplatform-benchmarks/)
+  - We were able to find a CSV file dataset on Kaggle that breaks down Android versus iOS device benchmarks into different columns including CPU, GPU, Memory, User Experience and total ratings.
+
+Kaggle: Top 20 Play Store App Reviews (Daily Update) 
+  - [Source](https://www.kaggle.com/datasets/odins0n/top-20-play-store-app-reviews-daily-update)
+  - The second data set is a CSV file containing app reviews of the top twenty Google Play apps. The columns of this data include: app name, the content of the review, the review ID, and the score for each review. We used the groups function in Tableau in order to group the apps by the category they fit into.
+  - These are the sources from the Kaggle website that we used for our analysis. To access them, click the link and it will take you to the Kaggle websiite. From there, hit the download button and upload these data sets into Tableau in order to create visualizations from their data.
