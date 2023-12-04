@@ -23,3 +23,9 @@ Kaggle: Top 20 Play Store App Reviews (Daily Update)
   - [Source](https://www.kaggle.com/datasets/odins0n/top-20-play-store-app-reviews-daily-update)
   - The second data set is a CSV file containing app reviews of the top twenty Google Play apps. The columns of this data include: app name, the content of the review, the review ID, and the score for each review. We used the groups function in Tableau in order to group the apps by the category they fit into.
   - These are the sources from the Kaggle website that we used for our analysis. To access them, click the link and it will take you to the Kaggle websiite. From there, hit the download button and upload these data sets into Tableau in order to create visualizations from their data.
+
+## Interpreting Visualizations
+
+## Discussion & Summary
+[Article Source](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smr.2316)
+The article delves into the relationship between user-reported issues, app ratings, and code quality indicators in the context of mobile app development. It aims to understand how specific types of user feedback are associated with app ratings and whether there is a connection between code quality metrics and critical issues. The study discusses its findings and acknowledges potential threats to the validity of the results. The importance of comprehending user-oriented metrics and code quality in app development is underscored. Various aspects of app development and evolution are explored, including app review classification, change request recommendations, and an examination of mobile app store rating systems. The article also investigates factors influencing the quality of mobile applications and methods for evaluating defects and predicting energy consumption.
