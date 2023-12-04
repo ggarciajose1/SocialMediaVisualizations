@@ -30,7 +30,7 @@ Kaggle: Top 20 Play Store App Reviews (Daily Update)
 [Article Source](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smr.2316)
 The article delves into the relationship between user-reported issues, app ratings, and code quality indicators in the context of mobile app development. It aims to understand how specific types of user feedback are associated with app ratings and whether there is a connection between code quality metrics and critical issues. The study discusses its findings and acknowledges potential threats to the validity of the results. The importance of comprehending user-oriented metrics and code quality in app development is underscored. Various aspects of app development and evolution are explored, including app review classification, change request recommendations, and an examination of mobile app store rating systems. The article also investigates factors influencing the quality of mobile applications and methods for evaluating defects and predicting energy consumption. Much like the research we did for our analyzations, the article took into consideration different ratings to create their conclusions. 
 
-### Conversation with ChatGPT 4
+## Conversation with ChatGPT 4
 We put our questions into ChatGPT 4 to see if the AI could give us more information regarding our research. Here are the responses we recieved:
 
 What is the distribution of user ratings and reviews for different Android app categories?
@@ -43,5 +43,5 @@ Is there any correlation between the various ratings and the device being an And
 
 As an AI, I don't have real-time data or the ability to analyze specific datasets. However, I can tell you that the correlation between ratings and the device being an Android or iOS product can depend on various factors. These can include the specific app or service being rated, the user experience on each platform, the demographic of users, and more. For example, if an app is better optimized for iOS, it may receive higher ratings on Apple's App Store compared to Google Play Store, and vice versa. To determine if there's a correlation, you would need to conduct a statistical analysis on a dataset that includes ratings and device information. This could involve techniques like correlation coefficients, cross-tabulation, or regression analysis. Remember that correlation does not imply causation. Even if there's a correlation between ratings and the device being an Android or iOS product, it doesn't necessarily mean one causes the other. Other factors could be influencing the ratings.
 
-### Conclusion:
+## Conclusion:
 Overall, the AI's answers were helpful in leading us in new directions for our analysis. The information we received from the Chatbot was considerably vague, since it didn't have the data sets to work with. It could only give us general answers to the questions instead of more in depth analysis about app ratings and user satisfaction. If we could put in all of the data from the Kaggle sets, then the machine could've analysed the data and given us more attuned responses.
